@@ -28,3 +28,11 @@ For this dataset, **K = 28** gives the best overall accuracy and generalization.
 - **scikit-learn** – KNN modeling and evaluation  
 - **matplotlib / seaborn** – Visualization  
 - **pandas / numpy** – Data handling and processing  
+
+## Try the KNN Classifier Demo
+
+Explore the interactive K-Nearest Neighbors classifier in action:
+
+👉 [Launch the Demo](https://knn-classifier-app-app-fwajtk5hpk8zluuu4ftcdz.streamlit.app/)
+
+This Streamlit app lets you experiment with different values of `k`, visualize decision boundaries, and test classification performance.
